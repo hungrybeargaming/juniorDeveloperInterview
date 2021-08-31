@@ -57,7 +57,7 @@ The candidates are assessed based on below items
 
 ## Unable to complete
 
-Please don't worry, If you are unable to finish the test completely. As a Junior developer, we understand its not easy to finish the whole game but please submit till you finish.
+Please don't worry, If you are unable to finish the test completely. As a Junior developer, we understand its not easy to finish the whole game but please submit whatever you finished with the excercise. But, Completing the whole excercise can give you benefit over other candidates.
 
 
 ## After the excercise is complete
